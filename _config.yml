@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Hari
+  name: Absurdvision
   #avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A Science/Engineering/Politics enthusiast."
+  job: "but not always absurd"
+  bio: "A blog of computer vision"
   email:
   disqus-shortname:
   twitter: #username
